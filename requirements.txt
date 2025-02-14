@@ -1,0 +1,33 @@
+# Requirements for Supermarket Sales Analysis Project
+
+## Python Version
+- Python 3.8 or higher
+
+## Libraries
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- plotly
+- jupyter
+- scikit-learn
+
+## Environment Setup
+1. Install Python (if not already installed) from [python.org](https://www.python.org/downloads/).
+2. Install dependencies using pip:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+
+## Additional Tools
+- Git for version control
+- A text editor (VS Code, JupyterLab, or PyCharm)
+
+## Notes
+- Ensure all dependencies are correctly installed before running the project.
+- Use a virtual environment for better dependency management.
+- Update libraries regularly to maintain compatibility.
