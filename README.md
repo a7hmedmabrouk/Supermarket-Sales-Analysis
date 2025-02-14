@@ -29,7 +29,8 @@ This project analyzes supermarket sales data to extract valuable business insigh
 ## Repository Structure
 ```
 ├── data
-│   ├── supermarket_sales.csv
+│   ├── Python Project Data - Supermarket Sales.csv
+|   ├── cleaned_supermarket_sales.csv
 ├── reports
 │   ├── Data_Wrangling_Report.pdf
 │   ├── Business_Insights_Report.pdf
