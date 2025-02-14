@@ -15,7 +15,7 @@ This project analyzes supermarket sales data to extract valuable business insigh
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/supermarket-sales-analysis.git
+   git clone [https://github.com/a7hmedmabrouk/Supermarket-Sales-Analysis.git]
    ```
 2. Install dependencies:
    ```bash
