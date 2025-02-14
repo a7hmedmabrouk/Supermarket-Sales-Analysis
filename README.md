@@ -35,7 +35,7 @@ This project analyzes supermarket sales data to extract valuable business insigh
 │   ├── Data_Wrangling_Report.pdf
 │   ├── Business_Insights_Report.pdf
 ├── notebooks
-│   ├── analysis.ipynb
+│   ├── project.ipynb
 ├── README.md
 ├── requirements.txt
 ```
